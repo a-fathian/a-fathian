@@ -1,16 +1,16 @@
-## Hi there 👋
+## Ali Fathian — Senior Android Engineer
 
-<!--
-**a-fathian/a-fathian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Android Engineer with 8+ years of experience building
+production-grade Android applications in fintech and consumer domains.
 
-Here are some ideas to get you started:
+### Expertise
+- Kotlin, Java
+- Jetpack Compose
+- Clean Architecture, MVVM / MVI
+- Multi-module Android systems
+- Coroutines & Flow
+- CI/CD (GitLab CI)
+- Unit & UI testing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Open to Android roles in Germany / EU  
+📄 CV & LinkedIn available upon request
