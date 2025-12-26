@@ -12,5 +12,5 @@ production-grade Android applications in fintech and consumer domains.
 - CI/CD (GitLab CI)
 - Unit & UI testing
 
-📍 Open to Android roles in Germany / EU  
+📍 Open to Android roles in Europe  
 📄 CV & LinkedIn available upon request
