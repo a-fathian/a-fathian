@@ -1,6 +1,6 @@
 ## Ali Fathian — Senior Android Engineer
 
-Senior Android Engineer with 8+ years of experience building
+Senior Android Engineer with 10+ years of experience building
 production-grade Android applications in fintech and consumer domains.
 
 ### Expertise
